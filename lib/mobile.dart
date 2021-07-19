@@ -4,6 +4,7 @@ import 'package:mysecond_app336/adaptive/adaptive_indicator.dart';
 import 'package:mysecond_app336/constants.dart';
 
 class MobileScreen extends StatelessWidget {
+  // helllo
 
   @override
   Widget build(BuildContext context) {
