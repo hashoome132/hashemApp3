@@ -5,7 +5,8 @@ import 'package:mysecond_app336/constants.dart';
 
 class MobileScreen extends StatelessWidget {
   // helllo
-
+  //hello 2
+  //hello from ahmed
   @override
   Widget build(BuildContext context) {
     return Scaffold(
